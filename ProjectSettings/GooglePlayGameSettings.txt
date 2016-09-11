@@ -1,0 +1,11 @@
+lastUpgrade=00934
+proj.pluginVersion=0.9.34
+proj.AppId=705026784596
+proj.classDir=Assets
+proj.ConstantsClassName=FaceToFAce.GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e705026784596%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22event_win_game_count%22%3eCgkI1Pr7tsIUEAIQAA%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=705026784596-0ek72f8h6uijgrtk60ajg8g1tqgg40r9.apps.googleusercontent.com
+proj.requireGPlus=false
+android.SetupDone=true
+App.NearbdServiceId=com.amcstudiobcn.facetoface
+android.NearbySetupDone=true
